@@ -1,8 +1,8 @@
 {
     "urunler": [
-        { "id": 1, "title": "Ürün 1", "kategori_id":1,"fiyat":101,"aciklama":"lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis dolor. Curabitur convallis justo quis venenatis molestie." ,"img":"https://youmnu-items.s3.amazonaws.com/youmnu/5ef640d9cf250028202c721a/items/122750482.jpeg"},
-        { "id": 2, "title": "Ürün 2", "kategori_id":1,"fiyat":1111,"aciklama":"lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis dolor. Curabitur convallis justo quis venenatis molestie." ,"img":"https://youmnu-items.s3.amazonaws.com/youmnu/5ef640d9cf250028202c721a/items/876267753.jpeg" },
-        { "id": 3, "title": "Ürün 3", "kategori_id":2,"fiyat":2222,"aciklama":"lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis dolor. Curabitur convallis justo quis venenatis molestie." ,"img":"https://youmnu-items.s3.amazonaws.com/youmnu/5ef640d9cf250028202c721a/items/385926755.jpeg" },
+        { "id": 1, "title": "Ürün 1", "kategori_id":1,"fiyat":101,"aciklama":"lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis dolor. Curabitur convallis justo quis venenatis molestie." ,"img":"https://youmnu-items.s3.amazonaws.com/youmnu/5ef640d9cf250028202c721a/items/122750482.jpeg","renk":"#123456"},
+        { "id": 2, "title": "Ürün 2", "kategori_id":1,"fiyat":1111,"aciklama":"lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis dolor. Curabitur convallis justo quis venenatis molestie." ,"img":"https://youmnu-items.s3.amazonaws.com/youmnu/5ef640d9cf250028202c721a/items/876267753.jpeg" ,"renk":"#055223"},
+        { "id": 3, "title": "Ürün 3", "kategori_id":2,"fiyat":2222,"aciklama":"lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis dolor. Curabitur convallis justo quis venenatis molestie." ,"img":"https://youmnu-items.s3.amazonaws.com/youmnu/5ef640d9cf250028202c721a/items/385926755.jpeg","renk":"#855686" },
         { "id": 4, "title": "Ürün 4", "kategori_id":2,"fiyat":2222,"aciklama":"lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis dolor. Curabitur convallis justo quis venenatis molestie." ,"img":"https://youmnu-items.s3.amazonaws.com/youmnu/5ef640d9cf250028202c721a/items/714232429.jpeg" },
         { "id": 5, "title": "Ürün 5", "kategori_id":3,"fiyat":1250,"aciklama":"lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis dolor. Curabitur convallis justo quis venenatis molestie." ,"img":"https://youmnu-items.s3.amazonaws.com/youmnu/5ef640d9cf250028202c721a/items/515651278.jpeg" },
         { "id": 6, "title": "Ürün 6", "kategori_id":3,"fiyat":1250,"aciklama":"lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis dolor. Curabitur convallis justo quis venenatis molestie." ,"img":"https://youmnu-items.s3.amazonaws.com/youmnu/5ef640d9cf250028202c721a/items/597629437.jpeg" },
@@ -36,6 +36,10 @@
         { "id": 7, "title": "Su" ,"img":"https://finedine.imgix.net/undefined/b4b58428-cea5-4d07-b2e8-e33a705913dd.jpg?w=120&h=80&fit=crop&fm=jpg" },
         { "id": 8, "title": "İçecek","img":"https://finedine.imgix.net/undefined/b4b58428-cea5-4d07-b2e8-e33a705913dd.jpg?w=120&h=80&fit=crop&fm=jpg"  },
         { "id": 9, "title": "Salep","img":"https://finedine.imgix.net/undefined/b4b58428-cea5-4d07-b2e8-e33a705913dd.jpg?w=120&h=80&fit=crop&fm=jpg"  }
+      
+    ],
+    "tasarim":[
+        { "temarenk": "#eb445a","beyaz":"#fff","siyah":"#000","buton":"#eb445a"  }
       
     ]
 
