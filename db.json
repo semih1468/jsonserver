@@ -38,9 +38,9 @@
         { "id": 9, "title": "Salep","img":"https://finedine.imgix.net/undefined/b4b58428-cea5-4d07-b2e8-e33a705913dd.jpg?w=120&h=80&fit=crop&fm=jpg"  }
       
     ],
-    "tasarim":[
+    "tasarim":
         { "temarenk": "#eb445a","beyaz":"#fff","siyah":"#000","buton":"#eb445a"  }
       
-    ]
+    
 
 }
