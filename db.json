@@ -132,19 +132,19 @@
         {
           "id": 1,
           "title": "Peynirli",
-          "ozellik_id": 1,
+          "grupid": 1,
           "fiyat": 5.90
         },
         {
           "id": 2,
           "title": "Salamlı",
-          "ozellik_id": 1,
+          "grupid": 1,
           "fiyat": 5.90
         },
         {
           "id": 3,
           "title": "Sucuklu",
-          "ozellik_id": 1,
+          "grupid": 1,
           "fiyat": 5.90
         }
       ]
@@ -158,19 +158,45 @@
         {
           "id": 4,
           "title": "Bol Peynirli",
-          "ozellik_id": 2,
+          "grupid": 2,
           "fiyat": 5.90
         },
         {
           "id": 5,
           "title": "Bol Salamlı",
-          "ozellik_id": 2,
+          "grupid": 2,
           "fiyat": 5.90
         },
         {
           "id": 6,
           "title": "Bol Sucuklu",
-          "ozellik_id": 2,
+          "grupid": 2,
+          "fiyat": 5.90
+        }
+      ]
+    },
+     {
+      "id": 3,
+      "title": "Seçim",
+      "urun_id": 1,
+      "multi": true,
+      "ozellik_extra": [
+        {
+          "id": 1,
+          "title": "Peynirli Çok",
+          "grupid": 3,
+          "fiyat": 5.90
+        },
+        {
+          "id": 2,
+          "title": "Salamlı Çok",
+         "grupid": 3,
+          "fiyat": 5.90
+        },
+        {
+          "id": 3,
+          "title": "Sucuklu Çok",
+           "grupid": 3,
           "fiyat": 5.90
         }
       ]
@@ -184,19 +210,19 @@
         {
           "id": 1,
           "title": "Peynirli",
-          "ozellik_id": 1,
+          "grupid": 1,
           "fiyat": 5.90
         },
         {
           "id": 2,
           "title": "Salamlı",
-          "ozellik_id": 1,
+          "grupid": 1,
           "fiyat": 5.90
         },
         {
           "id": 3,
           "title": "Sucuklu",
-          "ozellik_id": 1,
+          "grupid": 1,
           "fiyat": 5.90
         }
       ]
@@ -210,19 +236,19 @@
         {
           "id": 4,
           "title": "Bol Peynirli",
-          "ozellik_id": 2
-
+          "grupid": 2,
+"fiyat": 0
         },
         {
           "id": 5,
           "title": "Bol Salamlı",
-          "ozellik_id": 2,
+          "grupid": 2,
           "fiyat": 5.90
         },
         {
           "id": 6,
           "title": "Bol Sucuklu",
-          "ozellik_id": 2,
+          "grupid": 2,
           "fiyat": 5.90
         }
       ]
